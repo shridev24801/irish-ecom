@@ -1,0 +1,13 @@
+{
+    "name": "irish/ecom",
+    "description": "Simple Ecommerce Package",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Irish\\Ecom\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
