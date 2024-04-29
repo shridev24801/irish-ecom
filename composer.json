@@ -9,5 +9,10 @@
         }
     },
     "minimum-stability": "stable",
-    "require": {}
+    "require-dev": {
+        "laravel/breeze": "^1.29"
+    },
+    "require": {
+        "laravel/fortify": "^1.21"
+    }
 }
